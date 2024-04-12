@@ -21,21 +21,8 @@ const findLongestWord = (str) => {
     words = str.split(" ");
     return words.reduce(
 
-    (accum, curWord) => (curWord.length > accum.length ? curWord : accum) , ""
-);
+    (accum, curWord) => (curWord.length > accum.length ? curWord : accum) , "" );
 };
-
-
-
-
-
-
-
-
-
-
-
-
 
 console.log(
     findLongestWord("Lorem ipsum dolor sit amet, consectetur adipiscing elit")
