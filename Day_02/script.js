@@ -27,6 +27,4 @@ str = `#${str.join("")}`;
 return str;
 }
 
-
-
 console.log(generateHashTag("my name is rahul sharma"));
