@@ -1,5 +1,7 @@
 
-//? write a function to determine whether a given string is palindrome or not. A palindrome is a word phrase, number, or other sequence of characters that reads the same from forward and backward, ignoring spaces, punctuation and capitalization.
+//? Write a function to determine whether a given string is palindrome or not. 
+    A palindrome is a word phrase, number, or other sequence of characters that reads the same from forward and backward,
+    ignoring spaces, punctuation and capitalization.
 
 // Constraints :
 
