@@ -6,4 +6,5 @@ const calculateAverage = (arr) => {
     console.log(total);
     return total / arr.length;
 }
+
 console.log(calculateAverage([2, 4, 6, 9]));
