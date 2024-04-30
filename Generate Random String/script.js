@@ -1,6 +1,5 @@
 //? Here we generate random string.
 
-
 // declare all characters
 const characters ='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
 
