@@ -13,4 +13,5 @@ const toCamelCase = (str) => {
     });
     return str.join("")
 }
+
 console.log(toCamelCase("hello world raHul"));
