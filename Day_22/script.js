@@ -2,6 +2,7 @@
 //? Write a Javascript function findMedian(arr) that takes an array of numbers as input and returns the median value.If the array has an even number of elements, return the average of the two middle values.
 
 const findMedian = (arr) => {
+    
     console.log(arr.sort((a, b) => a - b));
     let length = arr.length;
     let mid = Math.floor(length / 2);
