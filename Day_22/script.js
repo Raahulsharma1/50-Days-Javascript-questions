@@ -12,6 +12,7 @@ const findMedian = (arr) => {
         return arr[mid];
     }
 };
+
 console.log(findMedian([5, 3, 5, 1, 7])); // Expected Output 5
 console.log(findMedian([2, 4, 6, 8])); // Expected Output 5
 console.log(findMedian([1, 3, 5, 7, 9, 11])); // Expected Output 6
