@@ -2,6 +2,7 @@
 //? Write a function to count the occurrences of each element in an array and store the counts in an object. The keys of the object should represent the number of times each element appears in the array.
 
 // Here's what the function should do:
+
 // Accept an array of numbers as input
 // Create an empty object called counts to store the counts of each element.
 // Iterate through each number in the array.
