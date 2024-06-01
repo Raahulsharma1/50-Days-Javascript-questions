@@ -1,7 +1,6 @@
 
 //? Write a function called findMode that takes an array of number as input and eturns the mode of the array ( The number that appears most frequently).
 
-
 function findMode(arr) {
     let counts = {};
     let maxNum = {};
