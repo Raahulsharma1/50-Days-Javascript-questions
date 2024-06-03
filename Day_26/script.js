@@ -1,5 +1,6 @@
 
 //? Write a function to find the nth Fibonacci number.
+
 //Todo syntax: F(n) = F(n-1) + F(n-2), Where F(1) = F(2) = 1.
 
 const fibonacci = (num) => {
