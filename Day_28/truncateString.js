@@ -15,7 +15,6 @@ const truncateString = (str, num) => {
 
     // Second Approach using Ternary Operator...
     
-
     return num <= 0 ? str : str.slice(0, num).concat(" ... ")
        
 }
