@@ -14,6 +14,7 @@ const numberRange = (a,b) => {
     }
     return arr;
 }
+
 console.log(numberRange(0, 5)); // EXpected Output : [ 0, 1, 2, 3, 4, 5 ]
 console.log(numberRange(-1, 5)); // EXpected Output : [-1, 0, 1, 2, 3, 4, 5]
 
